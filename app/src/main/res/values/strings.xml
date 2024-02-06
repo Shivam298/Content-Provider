@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContentProviderTest</string>
+    <string name="hintTextId">Enter Employee ID</string>
+    <string name="hintTextName">Enter User Name</string>
+    <string name="hintTextDesignation">Enter Designation</string>
+    <string name="heading">Content Provider In Android</string>
+    <string name="insertButtontext">Insert Data</string>
+    <string name="loadButtonText">Load Data</string>
+</resources>
